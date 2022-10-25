@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "name": "Bottle 1",
+      "price": 299,
+      "description": "Gym Bottle 1",
+      "id": 1
+    }
+  ]
+}

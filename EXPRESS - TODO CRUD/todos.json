@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Go to School",
+      "status": false
+    },
+    {
+      "id": 2,
+      "title": "Go to Home",
+      "status": false
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+Question 1: db.users.find({$or:[{"id":{$mod:[2,0]}},{"family_members":{$mod:[2,0]}}]})
+            db.users.updateMany({$or:[{"id":{$mod:[2,0]}},{"family_members":{$mod:[2,0]}}]},{$set:{"even_users":true}})
+    
+Question 2: db.users.updateMany({$and:[{"gender":"Male"},{"age":{$mod:[2,0]}}]}, {$inc:{"age":-1}})
+
+Question 3: db.users.updateMany({$and:[{"native":"United States"},{"age":{$lte:23}}]},{$unset:{"relocate_to":""}})
+            db.users.find({$and:[{"native":"United States"},{"age":{$lte:23}}]}).sort({"family_members":1})

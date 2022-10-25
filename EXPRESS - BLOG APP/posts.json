@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Go to Doctor",
+      "content": "xyz",
+      "author": "SObebar Ali"
+    },
+    {
+      "id": 2,
+      "title": "Go to Doctor 2",
+      "content": "abc",
+      "author": "SObebar Ali"
+    },
+    {
+      "id": 3,
+      "title": "mongoDB",
+      "content": "popiowe",
+      "author": "SObebar Ali"
+    },
+    {
+      "id": 4,
+      "title": "React",
+      "content": "hpppp",
+      "author": "Sobebar"
+    },
+    {
+      "id": 5,
+      "title": "new data",
+      "content": "new datatat tatataa",
+      "author": "sobebar ali"
+    }
+  ]
+}

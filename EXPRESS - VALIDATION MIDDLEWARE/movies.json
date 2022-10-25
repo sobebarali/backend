@@ -1,0 +1,70 @@
+{
+  "movies": [
+    {
+      "name": "Gym Fight 2",
+      "rating": 9,
+      "description": "Gym Fight",
+      "genre": "action",
+      "caste": [
+        "Sobebar Ali",
+        "Katrina Kaif"
+      ],
+      "id": 1
+    },
+    {
+      "name": "Local Fight 2",
+      "rating": 8,
+      "description": "Local Fight",
+      "genre": "action",
+      "caste": [
+        "Sobebar Ali",
+        "Disha Patani"
+      ],
+      "id": 2
+    },
+    {
+      "name": "Local Fight 3",
+      "rating": 10,
+      "description": "Local Fight",
+      "genre": "action",
+      "caste": [
+        "Sobebar Ali",
+        "Alia Bhatt"
+      ],
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Don",
+      "rating": 10,
+      "description": "Done Number 1",
+      "genre": "action",
+      "caste": [
+        "Sobebar Ali",
+        "Alia Bhatt"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Don 2",
+      "rating": 10,
+      "description": "Done Number 2",
+      "genre": "action",
+      "caste": [
+        "Sobebar Ali",
+        "Alia Bhatt"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Don 3",
+      "rating": 10,
+      "description": "Done Number 3",
+      "genre": "action",
+      "caste": [
+        "Sobebar Ali",
+        "Alia Bhatt"
+      ]
+    }
+  ]
+}

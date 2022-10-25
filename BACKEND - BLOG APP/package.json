@@ -1,0 +1,17 @@
+{
+  "name": "blog-relations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sobebar Ali",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^7.5.0",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.2"
+  }
+}
